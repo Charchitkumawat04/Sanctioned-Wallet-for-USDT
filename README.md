@@ -1,4 +1,4 @@
-## 🪙 USDT (Tether) - Overview, History & dashboard for banned address
+## 🪙 USDT (Tether) - Overview, History & dashboard of banned address
 
 [View Dashboard on Dune](https://dune.com/charchitku/sanctioned-wallet-for-usdt)
 
